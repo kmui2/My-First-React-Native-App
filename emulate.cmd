@@ -1,0 +1,1 @@
+"C:\Users\Kevin Mui\AppData\Local\Android\Sdk\tools\emulator.exe" -avd Nexus_5X_API_26
